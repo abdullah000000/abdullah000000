@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @abdullah000000
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm a Artificial Intelligence Scientist in the making at FAST NUCES Islamabad. I work mainly with Python (GeoPandas, Numpy, Pandas, Scikit Learn, Seaborn, Matplotlib) but I also aspire to be a full stack developer for which I have started learning new languages and tools to help me along my coding journey.
 
-<!---
-abdullah000000/abdullah000000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Techstack: Python | R | C/C++ | Vue | React | Docker | Vagrant | Git | MongoDB | Hadoop | Spark | SQL
+
+I’m currently learning to work with Geospatial data (Python) and MERN Stack
+I’m looking to collaborate on more data science + web development related projects
